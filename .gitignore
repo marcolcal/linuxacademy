@@ -1,0 +1,6 @@
+# We are going to ignore this files.
+*.bak
+*.out
+
+#we are going to ignore this directories
+tmp/* 
